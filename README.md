@@ -31,7 +31,7 @@ Features:
 
    v) to get an analysis on the tone of the text
 
-6. It provides an option for the user to change the fonts and size of the text.
+6. It provides an option for the user to change the fonts' size, style and also bold, italics ,underline and strike through the text.
 
 7. It has a chat-bot which interacts with the user.
 
