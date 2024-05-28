@@ -51,7 +51,7 @@ Libraries used:
 5.OpenAI library for paraphrasing.
 
 6.vaderSentiment library for sentiment analyser, which gives the tone of the input text.
-
+     
 
 
 
